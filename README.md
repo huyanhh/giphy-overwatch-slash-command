@@ -10,13 +10,13 @@ This is an open source Mixmax Slash Command. See <http://developer.mixmax.com/do
 To simulate locally how Mixmax calls the typeahead URL (to return a JSON list of typeahead results), run:
 
 ```
-curl https://localhost:9145/typeahead?text=cats --insecure
+curl https://localhost:9001/typeahead?text=FrostyFeet%23124767 --insecure
 ```
 
 To simulate locally how Mixmax calls the resolver URL (to return HTML that goes into the email), run:
 
 ```
-curl https://localhost:9145/resolver?text=cats --insecure
+curl https://localhost:9001/resolver?text=FrostyFeet%23124767 --insecure
 ```
 
 ## Why do we run it in https locally?
