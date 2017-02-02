@@ -1,6 +1,8 @@
-# Giphy Slash Command for Mixmax
+# Giphy Overwatch Slash Command for Mixmax
 
 This is an open source Mixmax Slash Command. See <http://developer.mixmax.com/docs/overview-slash-commands#tutorial-building-mygiphy> for more information about how to use this example code in Mixmax.
+
+You know that time where you wanted to brag about your SR to your friends but didn't want to make it too obvious? Well, by using the Overwatch slash command, you can just send it as if it were your signature and subtly humblebrag :).
 
 ## Running locally
 
